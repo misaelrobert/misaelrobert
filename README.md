@@ -1,7 +1,7 @@
 - 👋 Hi, I’m danilo
 - 👀 I’m interested in me tornar um programador 
 - 🌱 I’m currently learning a programar 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on com profissionais nessa area
 - 📫 How to reach 
 
 <!---
