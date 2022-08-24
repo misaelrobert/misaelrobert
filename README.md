@@ -1,8 +1,8 @@
 - 👋 Hi, I’m danilo
-- 👀 I’m interested in  Scarlett Johansson
-- 🌱 I’m currently learning  a programar 
-- 💞️ I’m looking to collaborate on ao aquecimento global
-- 📫 How to reach me procurando 
+- 👀 I’m interested in me tornar um programador 
+- 🌱 I’m currently learning  
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach 
 
 <!---
 misaelrobert/misaelrobert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
